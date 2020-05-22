@@ -1,0 +1,12 @@
+com\amigoscode\demo\exception\ApiRequestException.class
+com\amigoscode\demo\datasource\Datasource.class
+com\amigoscode\demo\exception\ApiException.class
+com\amigoscode\demo\exception\ApiExceptionHandler.class
+com\amigoscode\demo\student\StudentCourse.class
+com\amigoscode\demo\student\StudentController.class
+com\amigoscode\demo\student\StudentDataAccessService.class
+com\amigoscode\demo\DemoApplication.class
+com\amigoscode\demo\student\StudentService.class
+com\amigoscode\demo\student\Student.class
+com\amigoscode\demo\student\Student$Gender.class
+com\amigoscode\demo\validator\EmailValidator.class
